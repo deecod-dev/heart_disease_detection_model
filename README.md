@@ -26,7 +26,6 @@ This project requires the following Python libraries:
 
 You can install these dependencies using pip:
 
-```bash
 pip install numpy pandas matplotlib scikit-learn
 
 ## Data Preparation
